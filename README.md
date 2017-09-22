@@ -6,4 +6,4 @@ Helen - an investor, prefers to invest in no more than 40 % of her portfolio in 
 Alex - an investor, invests 100% in propetries.
 Max - an investor, invests in all types of assets.
 
-A loan - 200,000 £, porpeties market.
+A loan - 200,000 £, propeties market.
